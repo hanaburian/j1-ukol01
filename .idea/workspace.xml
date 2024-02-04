@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d823220-ff17-4149-ae80-4c6f8ed41fcf" name="Changes" comment="Prvni posun a ctverec.">
+    <list default="true" id="2d823220-ff17-4149-ae80-4c6f8ed41fcf" name="Changes" comment="Cast 2.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cz/czechitas/java/ukol01/HlavniProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/czechitas/java/ukol01/HlavniProgram.java" afterDir="false" />
     </list>
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707064374002</updated>
       <workItem from="1707064800542" duration="1328000" />
-      <workItem from="1707066663515" duration="6225000" />
+      <workItem from="1707066663515" duration="7753000" />
     </task>
     <task id="LOCAL-00001" summary="Prvni posun a ctverec.">
       <option name="closed" value="true" />
@@ -84,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707069311631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cast 2.">
+      <option name="closed" value="true" />
+      <created>1707080560833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707080560833</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Prvni posun a ctverec." />
-    <option name="LAST_COMMIT_MESSAGE" value="Prvni posun a ctverec." />
+    <MESSAGE value="Cast 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Cast 2." />
   </component>
 </project>

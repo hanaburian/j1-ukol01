@@ -11,11 +11,12 @@ public class HlavniProgram {
 
   public void start() {
     zofka = new Turtle();
-    //posunZelvu();
-    nakresliOsmihran();
-    nakresliKruh();
+    posunZelvu();
     nakresliPaprsek();
     nakresliSlunicko();
+    //nakresliOsmihran();
+    //nakresliKruh();
+
     nakresliCtverec();
     nakresliTrojuhelnik();
     //nakresliDomecek();
@@ -24,7 +25,20 @@ public class HlavniProgram {
   }
     //TODO implementace domácího úkolu
 
+  public void posunZelvu() {
+    zofka.penUp();
+    zofka.move(100);
+    zofka.turnLeft(90);
+    zofka.move(300);
+    zofka.turnRight(90);
+    zofka.penDown();
+  }
+
   public void nakresliOsmihran(){
+    zofka.penUp();
+    zofka.turnRight(90);
+    zofka.move(200);
+    zofka.penDown();
     for (int i = 0; i < 8; i++){
       zofka.move(50);
       zofka.turnRight(45);
@@ -33,9 +47,7 @@ public class HlavniProgram {
 
   public void nakresliKruh(){
     zofka.penUp();
-    zofka.move(150);
-    zofka.turnLeft(90);
-    zofka.move(300);
+    zofka.move(200);
     zofka.penDown();
     for (int i = 0; i < 360; i++){
       zofka.move(1);
