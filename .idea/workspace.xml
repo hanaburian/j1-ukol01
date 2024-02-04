@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d823220-ff17-4149-ae80-4c6f8ed41fcf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2d823220-ff17-4149-ae80-4c6f8ed41fcf" name="Changes" comment="Prvni posun a ctverec.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cz/czechitas/java/ukol01/HlavniProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/czechitas/java/ukol01/HlavniProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,11 +74,24 @@
       <option name="presentableId" value="Default" />
       <updated>1707064374002</updated>
       <workItem from="1707064800542" duration="1328000" />
-      <workItem from="1707066663515" duration="2367000" />
+      <workItem from="1707066663515" duration="6225000" />
     </task>
+    <task id="LOCAL-00001" summary="Prvni posun a ctverec.">
+      <option name="closed" value="true" />
+      <created>1707069311631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707069311631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prvni posun a ctverec." />
+    <option name="LAST_COMMIT_MESSAGE" value="Prvni posun a ctverec." />
   </component>
 </project>
