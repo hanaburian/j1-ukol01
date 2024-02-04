@@ -12,7 +12,19 @@ public class HlavniProgram {
   public void start() {
     zofka = new Turtle();
 
+  }
     //TODO implementace domácího úkolu
+  public void posunZelvu() {
+    zofka.penUp();
+    zofka.move(100);
+    zofka.penDown();
+    }
+
+  public void nakresliCtverec(){
+    for (int i = 0; i < 4; i++) {
+      zofka.move(100);
+      zofka.turnRight(90);
+    }
   }
 
 }
